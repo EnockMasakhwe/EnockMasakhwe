@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnockMasakhwe
 - 👀 I’m interested in Learning and Developing
-- 🌱 I’m currently learning HTML,CSS and JavaScript
-- 💞️ I’m looking to collaborate on my first website project
+- 🌱 I’m currently learning DevOps Engineering
+- 💞️ I’m looking for someone in DevOps who can be my mentor
 - 📫 Reach me: enockmasakhwe@gmail.com
 - ⚡ Fun fact: I love coding!
 

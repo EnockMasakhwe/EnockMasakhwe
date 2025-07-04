@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnockMasakhwe
 - 👀 I’m interested in Learning and Developing
-- 🌱 I’m currently learning DevOps Engineering
-- 💞️ I’m looking for someone in DevOps who can be my mentor
+- 🌱 I’m currently learning Springboot
+- 💞️ I’m looking for someone more advanced in Spring who can be my mentor
 - 📫 Reach me: enockmasakhwe@gmail.com
 - ⚡ Fun fact: I love coding!
 

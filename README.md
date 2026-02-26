@@ -1,5 +1,21 @@
-# 💫 About Me:
-🚀 Eliaro Jr<br>Backend Engineer in Progress | Java • Spring Boot • Secure APIs<br><br>Backend-focused developer building scalable, secure, and maintainable systems using Java and the Spring ecosystem. Currently strengthening my foundation in Core Java and enterprise backend architecture.<br><br>🧠 Backend Engineering Stack<br>💻 Core Programming<br><br>Java<br>OOP, Exception Handling<br>Collections Framework<br>File I/O<br>Multithreading (Foundations)<br>JVM fundamentals<br><br>Database Engineering<br><br>Relational schema design<br>Entity modeling<br>CRUD operations<br>Keys, constraints & normalization<br><br>🌿 Spring Ecosystem (Learning & Building)<br><br>Spring Core (IoC & DI)<br>Spring Boot<br>Spring Data JPA<br>Spring Security<br>RESTful API development<br>Layered architecture (Controller → Service → Repository)<br><br>🌐 Supporting Frontend Skills<br><br>Semantic HTML<br>Responsive design (Flexbox & Grid)<br>Basic DOM manipulation<br><br>📌 Roadmap: Deep JavaScript → React → Full-stack capability while remaining backend-specialized.
+## 🚀 What I'm Working With
+
+### 💻 Core Stack
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔐 Currently Exploring
+![Spring Security](https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/SPRING_DATA_JPA-59666C?style=for-the-badge)
+![Core Java](https://img.shields.io/badge/ADVANCED_CORE_JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🛠 Supporting Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🌐 Socials:

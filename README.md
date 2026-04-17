@@ -8,15 +8,17 @@
 ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔐 Currently Exploring
+![Core Java](https://img.shields.io/badge/CORE_JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/SPRING_DATA_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/SPRING_DATA_JPA-59666C?style=for-the-badge)
-![Core Java](https://img.shields.io/badge/ADVANCED_CORE_JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🛠 Supporting Skills
+> 📌 Building real-world projects to master Spring (Boot, JPA & Security) while strengthening Core Java fundamentals
+
+### 🌐 Frontend Basics
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
